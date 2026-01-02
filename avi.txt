@@ -1,0 +1,26 @@
+This is a dummy text file for testing purposes.
+
+File Name: sample_document.txt
+Created: December 24, 2024
+Purpose: Testing file upload functionality
+
+--- Sample Content ---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Key Information:
+- Item 1: Sample data point
+- Item 2: Another test entry
+- Item 3: Final test value
+
+This file can be used for:
+1. Testing file upload APIs
+2. Validating file transfer workflows
+3. Integration testing
+
+Contact: test@example.com
+Status: Active
+Version: 1.0
+
+--- End of Document ---
